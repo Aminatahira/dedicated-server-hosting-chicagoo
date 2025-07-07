@@ -57,6 +57,8 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        turquoise: "#00CED1",
+        midnight: "#191970",
       },
       borderRadius: {
         lg: "var(--radius)",
